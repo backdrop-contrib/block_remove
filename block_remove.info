@@ -1,0 +1,5 @@
+name = Block remove
+description = Allows users to remove blocks from the front end.
+package = Development
+backdrop = 1.x
+type = module
